@@ -1,0 +1,44 @@
+.alvin{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+}
+
+.coralvin{
+    color: red;
+}
+
+.cortheo{
+    color: green;
+}
+
+.corsimon{
+    color: blue;
+}
+
+
+
+.span{
+ border: 1px solid red
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+
+p{
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.teste{
+    display: inline;
+}
+
+.vilao{
+    font-size: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 5px solid black;
+    text-align: center;
+}
+
